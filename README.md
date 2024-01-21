@@ -1,4 +1,4 @@
-# E-Commerce API Project
+# Happy E-Commerce API Project
 
 ## Overview
 
